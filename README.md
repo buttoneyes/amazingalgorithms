@@ -1,2 +1,2 @@
 # amazingalgorithms
-Java project with advanced utility algorithms
+Java projects with advanced utility algorithms
